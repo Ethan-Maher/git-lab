@@ -45,3 +45,14 @@ Changes to be committed:
         new file:   README.md
         new file:   answers.md
 
+Answer 7
+On branch main
+nothing to commit, working tree clean
+
+Answer 8
+commit 0e83b2110254bd2dc70a8e731f3932ef158d1b63 (HEAD -> main)
+Author: Ethan Maher <em157322@ohio.edu>
+Date:   Thu Sep 7 15:59:43 2023 -0400
+
+    Initial commit
+
