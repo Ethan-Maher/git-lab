@@ -56,3 +56,10 @@ Date:   Thu Sep 7 15:59:43 2023 -0400
 
     Initial commit
 
+Answer 9
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+
