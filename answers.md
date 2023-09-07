@@ -63,3 +63,16 @@ Your branch is ahead of 'origin/main' by 1 commit.
 
 nothing to commit, working tree clean
 
+Answer 10
+No
+
+Answer 11
+There are multiple errors
+
+Answer 12
+Yes
+
+Answer 13
+.               .git            README.md
+..              .gitignore
+
